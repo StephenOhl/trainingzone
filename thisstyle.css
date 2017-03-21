@@ -1,0 +1,67 @@
+@charset "utf-8" ;
+
+/* CSS Document */
+h1{
+		color :black ;
+		background-color :bisque ;
+		text-align : center ;
+		font-size : 3em ;
+	}
+h2{padding-left: 5% ; }
+img.padindent{padding-left: 5% ;}
+p{
+	font-size : 1.5em ;
+	padding-left : 5% ;
+	padding-top : 0px ;
+	padding-bottom : 0px ;
+	padding-right : 2% ;
+}
+img.center {
+  display : block ;
+  margin-left : auto ;
+  margin-right : auto ;
+}
+.makeunderscore{
+	color : blue ;
+	text-underline-color : blue ;
+	text-decoration : underline ;
+}
+.changefontitalic{
+	font-style : italic ;
+	font-size : 1em ;
+}
+.changefontmiracle{
+	color : darkblue ;
+	font-size : 2em ;
+	font-weight : bold ;
+}
+.boldtext{
+	font-weight : bold ;
+}
+.blueText{
+	color : blue ;
+}
+.textwrapper{
+	color : black ;
+	font-size : 1.5em ;
+	padding-left : 10% ;
+	padding-top : 0px ;
+	padding-bottom : 0px ;
+	padding-right : 2% ;
+}
+.bluebgyellowfont{
+	background-color : blue ;
+	font-weight : bold ;
+	color : yellow ;
+}
+#wrapper{
+		margin-top : auto ;
+		margin-left : auto ;
+		margin-bottom :  auto ;
+		margin-right : auto ;
+}
+#blackngoldid{
+	background-color : black ;
+	text-align : center ;
+	color : gold ;
+}
